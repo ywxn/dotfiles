@@ -1,0 +1,16 @@
+/bin/sh: line 1: xss-lock: command not found
+warning: output HDMI-2 not found; ignoring
+[057 04:56:15.663660] Ignoring unknown config key: open_url_modifiers
+[057 04:56:15.663735] Ignoring unknown config key: rectangle_select_modifiers
+[057 04:56:15.663749] Ignoring unknown config key: terminal_select_modifiers
+
+(nm-applet:746): libnotify-WARNING **: 04:56:17.798: Failed to connect to proxy
+
+(nm-applet:746): nm-applet-WARNING **: 04:56:17.801: Failed to show notification: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
+[ 02/26/2022 04:56:19.261 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400069 (jeanne@colossus:~)
+[057 04:56:23.994909] Ignoring unknown config key: open_url_modifiers
+[057 04:56:23.994983] Ignoring unknown config key: rectangle_select_modifiers
+[057 04:56:23.994997] Ignoring unknown config key: terminal_select_modifiers
+[057 04:56:31.266831] Ignoring unknown config key: open_url_modifiers
+[057 04:56:31.266902] Ignoring unknown config key: rectangle_select_modifiers
+[057 04:56:31.266915] Ignoring unknown config key: terminal_select_modifiers
